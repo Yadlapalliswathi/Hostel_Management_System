@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Online-Hostel-management-system-Project
-
-[This Projects Demo Video link](https://youtu.be/VlN6EuCBmeY)
-
-[Another Project link](https://youtu.be/xnnS5XQe7p4)
-=======
 # Hostel_Management_System
->>>>>>> 0928e3e7b265f28e3203d6efaef3f1e1bfd462fc
+This project is a fully web-based application designed to streamline hostel management processes. 
+It enables users to book hostel rooms, check availability,
+and manage their preferences conveniently. The system also provides features for hostel administrators to manage
+bookings, allocate rooms, and maintain records efficiently. The main aim of this project is to provide an organized
+and user-friendly platform for both hostel residents and administrators.
+
